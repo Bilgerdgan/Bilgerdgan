@@ -1,56 +1,67 @@
-<h1 align="center">Merhaba, ben Bilge Erdoğan! 👋</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Bilgisayar+M%C3%BChendisi;ASP.NET+Core+%26+.NET+Geli%C5%9Ftirici;Python+%26+Do%C4%9Fal+Dil+%C4%B0%C5%9Fleme;G%C3%B6m%C3%BCl%C3%BC+Sistemler+(Arduino)" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/bilge-erdoğan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bilgerdogan01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🚀 Hakkımda
-
-Ben **Kırşehir Ahi Evran Üniversitesi** mezunu bir **Bilgisayar Mühendisiyim**. Yazılım geliştirme süreçlerinde **Backend (ASP.NET Core)** ve **Yapay Zeka (Python/NLP)** alanlarına odaklanıyorum.
-
-- 💼 **Deneyim:** Petlas bünyesinde Yazılım Şefliği departmanında **ASP.NET Core 8.0** ve **SQL** kullanarak web tabanlı uygulama geliştirme süreçlerinde bulundum.
-- 🔭 **Projelerim:**
- **🤖 Jarvis (Devam Ediyor)** | Python ile geliştirilen, sesli komutları algılayıp bilgisayar kontrolü, web araması ve günlük otomasyonları sağlayan kişisel asistan. | `Python` `SpeechRecognition` `AI` |
- **🐦 TweetSense** | Türkçe tweetler üzerinde Doğal Dil İşleme (NLP) teknikleri kullanarak duygu analizi yapan makine öğrenmesi modeli. | `Python` `NLP` `Jupyter` |
- **☀️ Güneş Takip Sistemi** | Güneş panellerinin verimliliğini artırmak için ışık kaynağını takip eden Arduino ve servo motor tabanlı otomasyon sistemi. | `Arduino` `C++` `IoT` |
-
----
-- ⚡ **Sertifikalarım:** Etik Hacker, HTML5, Python (Zero to Hero), PHP ile E-Ticaret.
-
----
-
-### 🛠️ Yeteneklerim & Teknolojiler
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bilge%20Erdoğan&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Bilgisayar%20Mühendisi%20&%20Yapay%20Zeka%20Geliştiricisi&descAlignY=60&descAlign=50" width="100%"/>
   
   <br/>
+  
+  <a href="https://linkedin.com/in/bilge-erdoğan">
+    <img src="https://img.shields.io/badge/LinkedIn-Bağlan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bilgerdogan01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Bana%20Yaz-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<br/>
 
-  <br/>
+### 👩‍💻 Hakkımda
+> **"Kod yazmak, problemleri sanatla çözmektir."**
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+Merhaba! Ben **Kırşehir Ahi Evran Üniversitesi** mezunu bir **Bilgisayar Mühendisiyim**. Özellikle **Yapay Zeka**, **Görüntü İşleme** ve **Backend Sistemler** üzerine çalışıyorum.
+* 💼 **Petlas** bünyesinde Yazılım Şefliği'nde ASP.NET Core ile kurumsal projeler geliştirdim.
+* 🔭 Şu anda kendi geliştirdiğim **Jarvis Asistan** ve **NLP Modelleri** üzerine odaklanıyorum.
+
+---
+
+### 🚀 Öne Çıkan Projelerim
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🤖 Jarvis Asistan</h3>
+      <p>Sesli komutları algılayan, bilgisayar kontrolü ve web araması yapan kişisel asistan.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-Speech-FF6F00?style=flat-square" />
+    </td>
+    <td width="33%" align="center">
+      <h3>🐦 TweetSense</h3>
+      <p>Türkçe tweetler üzerinde duygu analizi yapan Doğal Dil İşleme (NLP) modeli.</p>
+      <img src="https://img.shields.io/badge/Python-NLP-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-Data-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <h3>☀️ Güneş Takip</h3>
+      <p>Güneş panellerinin verimini %40 artıran Arduino tabanlı otomasyon sistemi.</p>
+      <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Yeteneklerim
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,cpp,php,html,css,js,arduino,mysql,postgres,git&perline=6" />
 </div>
 
 ---
 
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilgerdgan&show_icons=true&theme=tokyonight&hide_border=true&locale=tr&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilgerdgan&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="160" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
