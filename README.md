@@ -3,14 +3,11 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/bilge-erdoğan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/bilge-erdoğan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:bilgerdogan01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:bilgerdogan01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+</a>
 
 <br/>
 
@@ -34,26 +31,34 @@ Merhaba! Ben **Kırşehir Ahi Evran Üniversitesi** mezunu bir **Bilgisayar Müh
       <img src="https://img.shields.io/badge/Durum-Devam%20Ediyor-e67e22?style=flat-square" />
       <br/><br/>
       <p>Sesli komutları algılayan, bilgisayar kontrolü ve web araması yapan kişisel asistan.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI-Speech-FF6F00?style=flat-square" />
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Speech-FF6F00?style=flat-square" />
+      </div>
     </td>
+    
     <td width="33%" align="center" valign="top">
       <h3>
         <a href="https://github.com/Bilgerdgan/TweetSense">🐦 TweetSense</a>
       </h3>
       <br/>
       <p>Türkçe tweetler üzerinde duygu analizi yapan Doğal Dil İşleme (NLP) modeli.</p>
-      <img src="https://img.shields.io/badge/Python-NLP-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-Data-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <div>
+        <img src="https://img.shields.io/badge/Python-NLP-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-Data-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </div>
     </td>
+
     <td width="33%" align="center" valign="top">
       <h3>
         <a href="https://github.com/Bilgerdgan/Gunes-Takip-System">☀️ Güneş Takip</a>
       </h3>
       <br/>
       <p>Güneş panellerinin verimini %40 artıran Arduino tabanlı otomasyon sistemi.</p>
-      <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <div>
+        <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      </div>
     </td>
   </tr>
 </table>
