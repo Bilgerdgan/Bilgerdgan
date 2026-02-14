@@ -28,18 +28,26 @@ Merhaba! Ben **Kırşehir Ahi Evran Üniversitesi** mezunu bir **Bilgisayar Müh
   <tr>
     <td width="33%" align="center">
       <h3>🤖 Jarvis Asistan</h3>
+      <img src="https://img.shields.io/badge/Durum-Devam%20Ediyor-e67e22?style=flat-square" />
+      <br/>
       <p>Sesli komutları algılayan, bilgisayar kontrolü ve web araması yapan kişisel asistan.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/AI-Speech-FF6F00?style=flat-square" />
     </td>
+
     <td width="33%" align="center">
-      <h3>🐦 TweetSense</h3>
+      <a href="https://github.com/Bilgerdgan/TweetSense">
+        <h3>🐦 TweetSense</h3>
+      </a>
       <p>Türkçe tweetler üzerinde duygu analizi yapan Doğal Dil İşleme (NLP) modeli.</p>
       <img src="https://img.shields.io/badge/Python-NLP-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Jupyter-Data-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
+
     <td width="33%" align="center">
-      <h3>☀️ Güneş Takip</h3>
+      <a href="https://github.com/Bilgerdgan/Gunes-Takip-System">
+        <h3>☀️ Güneş Takip</h3>
+      </a>
       <p>Güneş panellerinin verimini %40 artıran Arduino tabanlı otomasyon sistemi.</p>
       <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=flat-square&logo=Arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-Embedded-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
