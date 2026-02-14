@@ -30,7 +30,7 @@ Merhaba! Ben **Kırşehir Ahi Evran Üniversitesi** mezunu bir **Bilgisayar Müh
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>🤖 Jarvis Asistan</h3>
-      <img src="https://img.shields.io/badge/Devam%20Ediyor-e67e22?style=flat-square" />
+      <img src="https://img.shields.io/badge/Durum-Devam%20Ediyor-e67e22?style=flat-square" />
       <br/><br/>
       <p>Sesli komutları algılayan, bilgisayar kontrolü ve web araması yapan kişisel asistan.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
